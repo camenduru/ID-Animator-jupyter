@@ -18,4 +18,4 @@ https://github.com/ID-Animator/ID-Animator
 https://id-animator.github.io/
 
 ### 🖼 Output
-
+https://github.com/camenduru/ID-Animator-jupyter/assets/54370274/25bdd6d1-d73a-4ab4-9f6e-3b0ca5a30c30
